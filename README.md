@@ -23,5 +23,3 @@ Pandas
 Matplotlib – 3.3.4
 
 Jupyter
-
-![image](https://user-images.githubusercontent.com/89247662/172050030-2c2674ac-d403-491e-b043-ed9c12e11444.png)
