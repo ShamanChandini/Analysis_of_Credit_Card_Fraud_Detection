@@ -14,10 +14,14 @@ Even for large data sets with many features and data instances training is extre
 Tools and Libraries used
 We use the following libraries and frameworks in credit card fraud detection project.
 
-Python – 3.x
+Python 
+
 Numpy – 1.19.2
+
 Pandas
+
 Matplotlib – 3.3.4
+
 Jupyter
 
 ![image](https://user-images.githubusercontent.com/89247662/172050030-2c2674ac-d403-491e-b043-ed9c12e11444.png)
