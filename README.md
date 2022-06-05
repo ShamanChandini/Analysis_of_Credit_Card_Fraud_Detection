@@ -10,3 +10,14 @@ Random Forest is an algorithm for classification and regression. Summarily, it i
 Random forest has advantage over decision tree as it corrects the habit of over fitting to their training set.
 
 Even for large data sets with many features and data instances training is extremely fast in random forest and because each tree is trained independently of the others. The Random Forest algorithm has been found to provide a good estimate of the generalization error and to be resistant to over fitting.
+
+Tools and Libraries used
+We use the following libraries and frameworks in credit card fraud detection project.
+
+Python – 3.x
+Numpy – 1.19.2
+Pandas
+Matplotlib – 3.3.4
+Jupyter
+
+![image](https://user-images.githubusercontent.com/89247662/172050030-2c2674ac-d403-491e-b043-ed9c12e11444.png)
