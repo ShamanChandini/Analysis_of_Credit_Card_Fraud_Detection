@@ -1,4 +1,5 @@
 # Credit_Card_Fraud_Detection
+MACHINE LEARNING
 For any bank or financial organization, credit card fraud detection is of utmost importance. 
 We have to spot potential fraud so that consumers can not bill for goods that they haven’t purchased. 
 The aim is, therefore, to create a classifier that indicates whether a requested transaction is a fraud.
@@ -15,11 +16,7 @@ Tools and Libraries used
 We use the following libraries and frameworks in credit card fraud detection project.
 
 Python 
-
-Numpy – 1.19.2
-
+Matplot lib
+Numpy 
 Pandas
 
-Matplotlib – 3.3.4
-
-Jupyter
