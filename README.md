@@ -1,5 +1,11 @@
 # Credit_Card_Fraud_Detection
-##MACHINE LEARNING
+## MACHINE LEARNING
+
+
+[Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
 
 For any bank or financial organization, credit card fraud detection is of utmost importance. 
 We have to spot potential fraud so that consumers can not bill for goods that they haven’t purchased. 
