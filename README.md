@@ -2,8 +2,8 @@
 ## MACHINE LEARNING
 
 
-[Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [The dataset can be found at} (https://www.kaggle.com/mlg-ulb/creditcardfraud)
+[Awesome Readme Templates : (https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [The dataset can be found at] (https://www.kaggle.com/mlg-ulb/creditcardfraud)
  - [How to write a Good readme]
 
 
