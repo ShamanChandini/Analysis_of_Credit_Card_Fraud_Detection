@@ -14,13 +14,12 @@ Random forest has advantage over decision tree as it corrects the habit of over 
 
 Even for large data sets with many features and data instances training is extremely fast in random forest and because each tree is trained independently of the others. The Random Forest algorithm has been found to provide a good estimate of the generalization error and to be resistant to over fitting.
 
-Tools and Libraries used
+### Tools and Libraries used
 We use the following libraries and frameworks in credit card fraud detection project.
 
-
-Python 
-Matplot lib
-Numpy 
-Pandas
+> Python 
+> Matplot lib
+> Numpy 
+> Pandas
 
 
