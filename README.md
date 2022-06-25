@@ -7,6 +7,9 @@ For any bank or financial organization, credit card fraud detection is of utmost
 We have to spot potential fraud so that consumers can not bill for goods that they haven’t purchased. 
 The aim is, therefore, to create a classifier that indicates whether a requested transaction is a fraud.
 
+
+![image](https://user-images.githubusercontent.com/89247662/175779946-0d180806-d520-478b-8e3f-5580b0f404b2.png)
+
  - The dataset can be found at : https://www.kaggle.com/mlg-ulb/creditcardfraud
  -  I've used Random forest algorithm for classification of the credit card dataset.
 Random Forest is an algorithm for classification and regression. Summarily, it is a collection of decision tree classifiers.
