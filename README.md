@@ -28,4 +28,5 @@ We use the following libraries and frameworks in credit card fraud detection pro
  
 > Pandas
 
+![image](https://user-images.githubusercontent.com/89247662/175779968-9c190c04-a6e1-4c27-9caa-70d7c14e266d.png)
 
